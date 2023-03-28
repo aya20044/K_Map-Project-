@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\3variables\3variables\bin\Debug\net6.0\3variables.exe
+C:\Users\HP\source\repos\3variables\3variables\bin\Debug\net6.0\3variables.deps.json
+C:\Users\HP\source\repos\3variables\3variables\bin\Debug\net6.0\3variables.runtimeconfig.json
+C:\Users\HP\source\repos\3variables\3variables\bin\Debug\net6.0\3variables.dll
+C:\Users\HP\source\repos\3variables\3variables\bin\Debug\net6.0\3variables.pdb
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.AssemblyInfo.cs
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.dll
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\refint\3variables.dll
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.pdb
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\3variables.genruntimeconfig.cache
+C:\Users\HP\source\repos\3variables\3variables\obj\Debug\net6.0\ref\3variables.dll
